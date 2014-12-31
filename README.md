@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## MusicBrainz Android
 
 This is the official [MusicBrainz](http://www.musicbrainz.org) Android app. It started as a Google Summer of Code project in 2010. Here is the [MusicBrainz product page](http://musicbrainz.org/doc/MusicBrainz_for_Android) for the app.
@@ -40,8 +41,13 @@ Import as existing Maven project. Just works.
 
 Yes. However, you'll need to look at the dependencies in the POMs and go hunting for the dependencies yourself.
 =======
+=======
+>>>>>>> 838a301b83ad8bdadd6b158cb5733271840252a0
 AlbumArtFixer
 =============
 
 experiment on album arts 
+<<<<<<< HEAD
+>>>>>>> 838a301b83ad8bdadd6b158cb5733271840252a0
+=======
 >>>>>>> 838a301b83ad8bdadd6b158cb5733271840252a0
